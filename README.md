@@ -1,5 +1,5 @@
 # himanshugupta.co.nf
-This is my personal website where I keep update myslef with latest project
+This is my personal website where you can find a little information about me and my projects
 
 visit link
 
